@@ -1,2 +1,2 @@
 # KasirAja
-Automation API using Mocha and Chai
+API testing using postman
